@@ -1,0 +1,17 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell temp files
+*.ps1xml
+*.ps1.json
+
+# Scoop binaries and auto-generated files
+apps/*/current/
+shims/
+cache/
+persist/*
+
+# Optional: logs
+*.log
